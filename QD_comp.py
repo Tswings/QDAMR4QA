@@ -1215,9 +1215,6 @@ if __name__ == '__main__':
                 print("The question doesn't belong to any type: %s" % key)
                 error_ques.append(key)
 
-    save_subQ_to_excel(subQ_dict)
-
-
-    print("helloooooooo")
+    # save_subQ_to_excel(subQ_dict)
 
 
