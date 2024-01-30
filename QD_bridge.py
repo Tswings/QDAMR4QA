@@ -574,7 +574,7 @@ if __name__ == '__main__':
     comparison_file = []
 
     with open(test_file, 'r', encoding='utf-8') as reader:
-        full_data = json.load(reader)[:10]  # [:100]
+        full_data = json.load(reader)  # [:100]
 
     for file in full_data:
         if file['type'] == 'bridge':
