@@ -8,8 +8,6 @@ import pickle
 import amrlib
 import penman
 import pandas as pd
-from unsupervised_multihop_QA import T5_QG
-t5_qg = T5_QG.pipeline("question-generation", model='valhalla/t5-base-qg-hl', qg_format="highlight")
 import string
 punc = string.punctuation
 
