@@ -4,7 +4,7 @@ A code implementation of this paper (<a href="https://www.ijcai.org/proceedings/
 
 ## QuickStart
 
-1. Download raw data from <a href="https://hotpotqa.github.io/">HotpotQA</a>.
+1. Download raw datas from <a href="https://hotpotqa.github.io/">HotpotQA</a>.
 2. Download CoreNLP from https://stanfordnlp.github.io/CoreNLP/history.html
 ```bash
 from stanfordcorenlp import StanfordCoreNLP
