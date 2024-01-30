@@ -19,7 +19,7 @@ gtos = amrlib.load_gtos_model()  # AMR-to-Text generation
 
 4. Question Decomposition (QD)
 ```bash
-python QD_bridge.py		# QD1 for bridge questions
+python QD_bridge.py		# QD1 for bridging questions
 python QD_comp.py		# QD2 for comparison questions
 ```
 
