@@ -20,7 +20,7 @@ gtos = amrlib.load_gtos_model()  # AMR-to-Text generation
 4. Question Decomposition (QD)
 ```bash
 python QD_bridge.py		# QD1 for bridging questions
-python QD_comp.py		# QD2 for comparison questions
+python QD_comp.py		# QD2 for comparison/intersection questions
 ```
 
 5. Follow <a href="https://github.com/shmsw25/DecompRC">DecompRC</a> to answer all sub-questions and predict the final answer. 
