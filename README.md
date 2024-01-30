@@ -17,13 +17,13 @@ stog = amrlib.load_stog_model()  # AMR parsing
 gtos = amrlib.load_gtos_model()  # AMR-to-Text generation
 ```  
 
-3. Question Decomposition (QD)
+4. Question Decomposition (QD)
 ```bash
 python QD_bridge.py		# QD1 for bridge questions
 python QD_comp.py		# QD2 for comparison questions
 ```
 
-4. Follow this paper <a href="https://github.com/shmsw25/DecompRC">DecompRC</a> to answer all sub-questions and predict the final answer. 
+5. Follow this paper <a href="https://github.com/shmsw25/DecompRC">DecompRC</a> to answer all sub-questions and predict the final answer. 
 
 ## Citation
 
