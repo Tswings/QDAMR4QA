@@ -6,7 +6,7 @@ A code implementation of this paper (<a href="https://www.ijcai.org/proceedings/
 
 1. Download raw data from <a href="https://hotpotqa.github.io/">HotpotQA</a>.
 
-2. Download a python library <a href="https://github.com/bjascob/amrlib">amrlib</a>. Follow this tutorial <a href="https://amrlib.readthedocs.io/en/latest/install/">AMRLib</a>to load AMR-paring and AMR-to-Text generation model.
+2. Download a python library <a href="https://github.com/bjascob/amrlib">amrlib</a>. Follow this tutorial <a href="https://amrlib.readthedocs.io/en/latest/install/">AMRLib</a> to load AMR-paring and AMR-to-Text generation model.
 
 ```bash
 stog = amrlib.load_stog_model()  # AMR parsing
