@@ -619,8 +619,7 @@ if __name__ == '__main__':
             subQ_dict.append(subQ_tmp)
 
     # save results
-    save_subQ_to_excel(subQ_dict)
+    # save_subQ_to_excel(subQ_dict)
     # print(subQ_dict)
-    print("hello")
 
 
