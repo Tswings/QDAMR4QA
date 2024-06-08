@@ -1,5 +1,5 @@
 # Interpretable AMR-Based Question Decomposition for Multi-hop Question Answering
-A code implementation of this paper (<a href="https://www.ijcai.org/proceedings/2022/0568.pdf">IJACI 2022</a>). 
+A code implementation of this paper (<a href="https://arxiv.org/pdf/2206.08486">IJACI 2022</a>). 
 
 
 ## QuickStart
